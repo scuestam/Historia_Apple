@@ -4,5 +4,5 @@ Por si no lo conoces, Steve fue uno de los fundadores de Apple junto a Steve Job
 
 ¿Qué podríamos decir que era el trabajo duro?
 
-* [Lo duro era el trabajo de Woz](https://github.com/scuestam/pruebagit/blob/master/duroWoz.md)
-* [Lo duro era vender el producto como hacía Jobs](https://github.com/scuestam/pruebagit/blob/master/duroJobs.md)
+* [Lo duro era el trabajo de Woz](https://github.com/scuestam/pruebagit/blob/master/woz.md)
+* [Lo duro era vender el producto como hacía Jobs](https://github.com/scuestam/pruebagit/blob/master/jobs.md)
