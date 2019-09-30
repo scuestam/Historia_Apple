@@ -4,4 +4,4 @@ La mayoría del mundo piensa que Jobs fue el genio qe inventó el iPad, iPhone, 
 
 Wozniak fue realmente el genio que estaba detrás de haber construido el primero PC de Apple en el garaje de los padres de Steve Jobs
 
-* [Conoce la verdad](https://github.com/scuestam/pruebagit/edit/master/fin.md)
+* [Conoce la verdad](https://github.com/scuestam/pruebagit/blob/master/fin.md)
